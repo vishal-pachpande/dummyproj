@@ -1,0 +1,6 @@
+[run]
+source = Dummyproj
+omit = 
+    tests/*
+    autoapp.py
+
